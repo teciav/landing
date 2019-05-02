@@ -1,0 +1,28 @@
+.banner {
+  background-image: url('../../images/background.png');
+  background-size: cover;
+  background-position: center;
+  height: 550px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  display: block;
+  width: 900px;
+}
+
+.banner h1 {
+  font-size: 35px;
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  margin-bottom: 10px;
+}
+
+.banner p {
+  font-size: 20px;
+  color: #a89f9f;
+  font-family: 'Open Sans', sans-serif;
+  margin-bottom: 10px;
+}

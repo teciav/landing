@@ -1,0 +1,26 @@
+.footer {
+  height: 200px;
+  background-color: #2c2b2b;
+  display: block;
+  text-align: center;
+  font-size: 30px;
+  line-height: 10px;
+  padding-top: 20px;
+}
+
+.icons {
+  list-style-type: none;
+  display: inline-flex;
+}
+
+a {
+  color: #1EDD88;
+  margin: 0 10px;
+  display: inline-block;
+}
+
+.footer p {
+  margin: 0;
+  color: #6B6C6C;
+  font-size: 15px;
+}
